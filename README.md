@@ -9,3 +9,6 @@ A 2D Endless Unity Game; Fly up high and beat highscores with your customizable 
 - [ ] Rocket Feature Upgrades (Laser Beam, Speed, ..)
 - [ ] Different Rocket Models
 - [ ] Awesome and unique Textures
+
+## Current Build Preview
+![Curren Build Preview GIF](https://raw.githubusercontent.com/mrousavy/TinyRocket/master/Images/Demo.gif)
