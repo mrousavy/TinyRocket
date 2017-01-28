@@ -1,5 +1,5 @@
 # TinyRocket
-A 2D Endless Unity Game; Fly up high and beat highscores with your customizable and upgradeable Rocket!
+A 2D Endless Unity Game for iOS, Android and Windows Phones; Fly up high and beat highscores with your customizable and upgradeable Rocket!
 
 ## Features
 - [x] Endless Meteorite procedural generation
