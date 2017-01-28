@@ -4,7 +4,7 @@ A 2D Endless Unity Game; Fly up high and beat highscores with your customizable 
 ## Features
 - [x] Endless Meteorite procedural generation
 - [x] Different Difficulty Settings
-- [ ] (Online) Highscore Table
+- [ ] Highscore Table (Online)
 - [ ] Rocket Visual Upgrades (Skins, ..)
 - [ ] Rocket Feature Upgrades (Laser Beam, Speed, ..)
 - [ ] Different Rocket Models
